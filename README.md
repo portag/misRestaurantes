@@ -71,3 +71,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 https://packagist.org/packages/bumbummen99/shoppingcart
 github.com/Crinsane/LaravelShoppingcart
+
+#Emilio Porta
